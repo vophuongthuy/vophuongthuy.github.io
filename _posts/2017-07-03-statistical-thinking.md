@@ -8,17 +8,3 @@ full: true
 genre: science infotech nonfiction
 categories: reading
 ---
-
-ABC
-
-{% include toc.html %}
-
-## Chapter 1
-
-### Section 1
-
-ABC
-
-## ABC
-
-Content
